@@ -1,0 +1,61 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+button {
+  cursor: pointer;
+}
+body {
+  background-color: bisque;
+}
+.로그인1 {
+  width: 780px;
+  height: 550px;
+  margin: 0 auto;
+}
+.로그인1 h2 {
+  width: 100%;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+}
+.로그인1 form {
+  background-color: white;
+  box-sizing: border-box;
+  width: 100%;
+  height: 450px;
+  padding: 60px;
+}
+.로그인1 fieldset {
+  border: none;
+}
+.로그인1 label {
+  display: block;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 10px;
+}
+.로그인1 input {
+  display: block;
+  width: 100%;
+  height: 50px;
+  margin-bottom: 50px;
+}
+.로그인1 form :hover {
+  border-color: skyblue;
+}
+.로그인1 ul {
+  text-align: right;
+}
+.로그인1 button {
+  display: block;
+  width: 220px;
+  height: 50px;
+  margin: auto;
+  background-color: #1673ea;
+  color: white;
+  font-size: 15px;
+}
